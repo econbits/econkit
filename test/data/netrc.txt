@@ -1,0 +1,3 @@
+machine econbits.com
+login username
+password secret
