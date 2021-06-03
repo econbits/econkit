@@ -23,7 +23,7 @@ import (
 	chelper "github.com/docker/docker-credential-helpers/client"
 
 	"github.com/econbits/econkit/private/config"
-	"github.com/econbits/econkit/third_party/netrc"
+	"github.com/git-lfs/go-netrc/netrc"
 )
 
 type Store string

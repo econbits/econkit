@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/docker/docker-credential-helpers v0.6.3
+	github.com/git-lfs/go-netrc v0.0.0-20180525200031-e0e9ca483a18
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/spf13/cobra v1.1.3
-	github.com/spf13/viper v1.7.1
+	github.com/urfave/cli/v2 v2.3.0
 )

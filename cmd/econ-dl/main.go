@@ -16,8 +16,12 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 package main
 
-import "github.com/econbits/econkit/cmd/econ-dl/cmd"
+import (
+	"os"
+
+	"github.com/urfave/cli/v2"
+)
 
 func main() {
-	cmd.Execute()
+	(&cli.App{}).Run(os.Args)
 }

@@ -1,0 +1,19 @@
+# github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d
+github.com/cpuguy83/go-md2man/v2/md2man
+# github.com/docker/docker-credential-helpers v0.6.3
+## explicit
+github.com/docker/docker-credential-helpers/client
+github.com/docker/docker-credential-helpers/credentials
+# github.com/git-lfs/go-netrc v0.0.0-20180525200031-e0e9ca483a18
+## explicit
+github.com/git-lfs/go-netrc/netrc
+# github.com/mitchellh/go-homedir v1.1.0
+## explicit
+github.com/mitchellh/go-homedir
+# github.com/russross/blackfriday/v2 v2.0.1
+github.com/russross/blackfriday/v2
+# github.com/shurcooL/sanitized_anchor_name v1.0.0
+github.com/shurcooL/sanitized_anchor_name
+# github.com/urfave/cli/v2 v2.3.0
+## explicit
+github.com/urfave/cli/v2
