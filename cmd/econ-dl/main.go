@@ -17,11 +17,12 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 package main
 
 import (
-	"os"
-
-	"github.com/urfave/cli/v2"
+	"github.com/thatisuday/commando"
 )
 
 func main() {
-	(&cli.App{}).Run(os.Args)
+	commando.
+		SetExecutableName("econ-dl").
+		SetVersion("v0.0.1").
+		SetDescription("Download your financial data.")
 }
